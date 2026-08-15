@@ -212,7 +212,7 @@ It supports a **targeted operating strategy**: identify where commercial importa
 
 <p align="center">
   <strong>Project Files</strong><br><br>
-  <a href="code/Ecommerce_Operations_Analytics.ipynb">View Analysis Notebook</a>
+  <a href="Ecommerce_Operations_Analytics/code/Ecommerce_Operations_Analytics.ipynb">View Analysis Notebook</a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="docs/olist_ecommerce_operations_logistics_documentation.pdf">View Full Documentation</a>
 </p>
