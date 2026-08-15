@@ -74,33 +74,6 @@ Potential improvements include packaging optimization, shipment
 consolidation, carrier selection, seller-level logistics improvements,
 delivery exception management, and proactive customer communication.
 
-## Suggested Project Structure
-
-olist-ecommerce-operations-logistics-analysis/
-├── data/
-│   └── *.csv
-├── notebooks/
-│   └── ecommerce_operations_logistics_analysis.ipynb
-├── docs/
-│   └── olist_ecommerce_operations_logistics_documentation.docx
-└── README.md
-
-## Installation
-
-pip install pandas numpy matplotlib seaborn jupyter
-
-## Usage
-
-Start Jupyter:
-
-jupyter notebook
-
-Then open:
-
-notebooks/ecommerce_operations_logistics_analysis.ipynb
-
-Run the cells from top to bottom.
-
 ## Management Takeaway
 
 The project supports a targeted logistics optimization strategy rather
