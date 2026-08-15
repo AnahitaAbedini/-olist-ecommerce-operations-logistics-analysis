@@ -158,10 +158,6 @@ This relationship is **associative rather than causal**, but the size of the gap
 
 # 05. Management Priorities
 
-<p align="center">
-  <img src="assets/management_takeaway.png" width="100%" alt="Management recommendations">
-</p>
-
 ### 1. Prioritize the categories with the greatest combined exposure
 
 Start with categories that combine:
